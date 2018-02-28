@@ -1,14 +1,13 @@
 {
-  "name": "parcel-tut",
+  "name": "parcel-hyperapp-starter",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Parcel bundler & Hyperapp (with TypeScript)",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url ./"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marcin Baraniecki - https://github.com/belfz",
   "license": "ISC",
   "dependencies": {
     "hyperapp": "^1.1.2",
